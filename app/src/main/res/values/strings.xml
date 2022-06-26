@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PostsRetrieverApi</string>
+    <string name="posts_header">List of Posts:</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+</resources>
